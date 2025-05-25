@@ -12,6 +12,8 @@
   "description": "",
   "dependencies": {
     "express": "^4.21.2",
+    "mongodb": "^6.16.0",
+    "mongoose": "^8.14.2",
     "res": "^0.4.0",
     "response": "^0.18.0"
   }
